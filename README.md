@@ -47,3 +47,25 @@ The network features a custom **SmallInceptionCNN** consisting of:
 | **Final Model (+ Cutout / LS)** | **71.50% ± 0.6%** | **74.20% ± 0.8%** | **61.80% ± 0.9%** |
 
 ---
+
+## 💻 Getting Started
+
+1. **Clone the repository:**
+```bash
+git clone [https://github.com/your-username/Robust-Image-Classifier.git](https://github.com/your-username/Robust-Image-Classifier.git)
+cd Robust-Image-Classifier
+
+```
+
+
+2. **Install dependencies:**
+```bash
+pip install -r requirements.txt
+
+```
+
+
+3. **Run the pipeline:**
+Execute the code cells sequentially from data preparation and model training to ablation studies and TTA evaluation.
+
+---
